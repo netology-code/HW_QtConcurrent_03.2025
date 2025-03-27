@@ -1,0 +1,1 @@
+# HW_QtConcurrent_03.2025
